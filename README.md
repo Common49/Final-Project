@@ -1,4 +1,17 @@
 # Kodland 2408 Hackathon
 
 ## Idea
-My intial idea is to create a smple webpage that generates random climate facts for users to improve awareness of climate crisis around the world. Another feature that the website will have is a 'practice pronounciation' on more complex climate terms for those who would like to learn english. The website will also include certain tips or simple eco-friendly projects that users can do at home to fight against climate change.
+
+My idea is to create a discord bot that can be provided an image of a natural disaster or an example of climate change, recognize and differentiate them, as well as providing facts about climate change and tips. 
+Discord bots
+- Kelas dan metode
+- APIs
+- Menjelajahi dokumentasi perpustakaan
+- File dan folder
+- Lingkungan virtual
+
+visi komputer 
+- Kumpulan data
+- Pelatihan dan validasi model visi komputer
+- Perpustakaan CV
+- Dasar-dasar pembelajaran mesin
